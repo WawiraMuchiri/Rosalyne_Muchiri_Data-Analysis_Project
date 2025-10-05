@@ -1,7 +1,5 @@
 
 ---
-
-```markdown
 # Everything Data Mentorship Program Cohort 4 Analysis
 
 ## 1. Project Overview  
