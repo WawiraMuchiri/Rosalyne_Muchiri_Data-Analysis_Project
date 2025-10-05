@@ -70,7 +70,7 @@ The analysis followed a structured, multi-step process to ensure data integrity 
 1. **Clone this repository**  
    ```bash
    git clone https://github.com/WawiraMuchiri/Everything-Data-Mentorship-Program-Cohort4.git
-````
+```
 ## 7. Author
 
 **Rosalyne Muchiri**
