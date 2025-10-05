@@ -44,7 +44,7 @@ The analysis followed a structured, multi-step process to ensure data integrity 
 
 ## 4. Technologies Used  
 
-| Tool | Purpose |
+|Tool |Purpose |
 |------|----------|
 | **Excel** | Data cleaning and initial inspection |
 | **SQL** | Exploratory data analysis and querying |
@@ -54,7 +54,7 @@ The analysis followed a structured, multi-step process to ensure data integrity 
 
 ## 5. Guide to This Workbook  
 
-| Section | Tool | Description |
+|Section |Tool |Description |
 |----------|------|-------------|
 | Data Cleaning (Excel) | Excel | Initial data cleaning steps |
 | Data Cleaning (SQL) | SQL | Further refinement and preparation |
